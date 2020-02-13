@@ -1,0 +1,682 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="MBMBAM - Glass Shark_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="276.5419161677" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="compatible_brands" value="isommp42"/>
+		<tag name="ARTIST" value="Justin, Travis and Griffin McElroy"/>
+		<tag name="TITLE" value="MBMBaM 215: Glass Shark"/>
+		<tag name="major_brand" value="mp42"/>
+		<tag name="Software" value="Lavf56.19.100"/>
+		<tag name="minor_version" value="0"/>
+	</tags>
+	<wavetrack name="MBMBAM - Glass Shark" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3847680">
+				<waveblock start="0">
+					<simpleblockfile filename="e080893d.au" len="262144" min="-0.800395" max="0.657119" rms="0.08331"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e08082d4.au" len="262144" min="-0.79264" max="0.792673" rms="0.09605"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808fe9.au" len="234787" min="-0.786344" max="0.794417" rms="0.084542"/>
+				</waveblock>
+				<waveblock start="759075">
+					<simpleblockfile filename="e0808c35.au" len="144750" min="-0.810664" max="0.605036" rms="0.082062"/>
+				</waveblock>
+				<waveblock start="903825">
+					<simpleblockfile filename="e08089ef.au" len="144751" min="-0.740178" max="0.692576" rms="0.10689"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808c86.au" len="262144" min="-0.77382" max="0.61958" rms="0.099562"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0808acd.au" len="262144" min="-0.780753" max="0.740255" rms="0.104602"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808332.au" len="262144" min="-0.858592" max="0.708614" rms="0.118163"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e080832d.au" len="262144" min="-0.775417" max="0.602734" rms="0.115602"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808f01.au" len="262144" min="-0.813171" max="0.795246" rms="0.11358"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e080841b.au" len="262144" min="-0.616968" max="0.635682" rms="0.117063"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e08086ce.au" len="262144" min="-0.527695" max="0.601916" rms="0.112542"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e080838e.au" len="262144" min="-0.614974" max="0.585783" rms="0.121038"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0808a41.au" len="262144" min="-0.754137" max="0.807401" rms="0.120531"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e080808e.au" len="228192" min="-0.654534" max="0.639952" rms="0.116533"/>
+				</waveblock>
+				<waveblock start="3636064">
+					<simpleblockfile filename="e08084c8.au" len="211616" min="-0.611011" max="0.571967" rms="0.12858"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="MBMBAM - Glass Shark" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3847680">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b9f.au" len="262144" min="-0.800395" max="0.657119" rms="0.08331"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808fff.au" len="262144" min="-0.79264" max="0.792673" rms="0.09605"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808a5b.au" len="234787" min="-0.786344" max="0.794417" rms="0.084542"/>
+				</waveblock>
+				<waveblock start="759075">
+					<simpleblockfile filename="e080899c.au" len="144750" min="-0.810664" max="0.605036" rms="0.082062"/>
+				</waveblock>
+				<waveblock start="903825">
+					<simpleblockfile filename="e080889c.au" len="144751" min="-0.740178" max="0.692576" rms="0.10689"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0808221.au" len="262144" min="-0.77382" max="0.61958" rms="0.099562"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e080866d.au" len="262144" min="-0.780753" max="0.740255" rms="0.104602"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0808986.au" len="262144" min="-0.858592" max="0.708614" rms="0.118163"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e08088c2.au" len="262144" min="-0.775417" max="0.602734" rms="0.115602"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0808373.au" len="262144" min="-0.813171" max="0.795246" rms="0.11358"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e080857b.au" len="262144" min="-0.616968" max="0.635682" rms="0.117063"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0808325.au" len="262144" min="-0.527695" max="0.601916" rms="0.112542"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0808068.au" len="262144" min="-0.614974" max="0.585783" rms="0.121038"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e080856c.au" len="262144" min="-0.754137" max="0.807401" rms="0.120531"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0808274.au" len="228192" min="-0.654534" max="0.639952" rms="0.116533"/>
+				</waveblock>
+				<waveblock start="3636064">
+					<simpleblockfile filename="e0808a52.au" len="211616" min="-0.611011" max="0.571967" rms="0.12858"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="What if there was a shark" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58685">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083df.au" len="58685" min="-0.750168" max="0.792673" rms="0.119353"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="What if there was a shark" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58685">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808c32.au" len="58685" min="-0.750168" max="0.792673" rms="0.119353"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="F**k me there is a shark in here" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="139057">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089bb.au" len="139057" min="-0.810664" max="0.605036" rms="0.083554"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="F**k me there is a shark in here" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="139057">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e57.au" len="139057" min="-0.810664" max="0.605036" rms="0.083554"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="He&apos;s made of glass" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="50393">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808db7.au" len="50393" min="-0.675686" max="0.518179" rms="0.126724"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="He&apos;s made of glass" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="50393">
+				<waveblock start="0">
+					<simpleblockfile filename="e080855d.au" len="50393" min="-0.675686" max="0.518179" rms="0.126724"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark glass shark" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80373">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f57.au" len="80373" min="-0.680841" max="0.740255" rms="0.108747"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark glass shark" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80373">
+				<waveblock start="0">
+					<simpleblockfile filename="e080897d.au" len="80373" min="-0.680841" max="0.740255" rms="0.108747"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark love fat kid" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="61874">
+				<waveblock start="0">
+					<simpleblockfile filename="e080814f.au" len="61874" min="-0.753462" max="0.656335" rms="0.118102"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark love fat kid" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="61874">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080f5.au" len="61874" min="-0.753462" max="0.656335" rms="0.118102"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You gotta know" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="49435">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bf8.au" len="49435" min="-0.801612" max="0.708614" rms="0.114557"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You gotta know" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="49435">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808588.au" len="49435" min="-0.801612" max="0.708614" rms="0.114557"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark he luf the fat kid" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90579">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080de.au" len="90579" min="-0.858592" max="0.661917" rms="0.13651"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark he luf the fat kid" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90579">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080b5.au" len="90579" min="-0.858592" max="0.661917" rms="0.13651"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="stay out the water fat kid" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="78937">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808405.au" len="78937" min="-0.520118" max="0.456363" rms="0.122807"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="stay out the water fat kid" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="78937">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b54.au" len="78937" min="-0.520118" max="0.456363" rms="0.122807"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark coming for you" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="92811">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808307.au" len="92811" min="-0.775417" max="0.602734" rms="0.118893"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark coming for you" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="92811">
+				<waveblock start="0">
+					<simpleblockfile filename="e080805d.au" len="92811" min="-0.775417" max="0.602734" rms="0.118893"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dunnn" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="18180">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808dce.au" len="18180" min="-0.422084" max="0.383212" rms="0.127385"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dunnn" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="18180">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084e2.au" len="18180" min="-0.422084" max="0.383212" rms="0.127385"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="deep water that dark water" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="96958">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a22.au" len="96958" min="-0.54697" max="0.502914" rms="0.11047"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="deep water that dark water" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="96958">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088e8.au" len="96958" min="-0.54697" max="0.502914" rms="0.11047"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fat kid no go" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="57728">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f23.au" len="57728" min="-0.813171" max="0.795246" rms="0.116399"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="fat kid no go" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="57728">
+				<waveblock start="0">
+					<simpleblockfile filename="e080826a.au" len="57728" min="-0.813171" max="0.795246" rms="0.116399"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark come to that black water he get you fat kid" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="162978">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f2e.au" len="162978" min="-0.616968" max="0.635682" rms="0.117335"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark come to that black water he get you fat kid" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="162978">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808700.au" len="162978" min="-0.616968" max="0.635682" rms="0.117335"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bite your trunks right off" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67296">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088b2.au" len="67296" min="-0.528831" max="0.507901" rms="0.11881"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Bite your trunks right off" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="67296">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e49.au" len="67296" min="-0.528831" max="0.507901" rms="0.11881"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You tubby little fish" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65383">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808114.au" len="65383" min="-0.403786" max="0.442658" rms="0.105477"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You tubby little fish" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65383">
+				<waveblock start="0">
+					<simpleblockfile filename="e08086cb.au" len="65383" min="-0.403786" max="0.442658" rms="0.105477"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="floppy flap" isSelected="0" height="22" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="29821">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084d4.au" len="29821" min="-0.486939" max="0.601916" rms="0.103464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="floppy flap" isSelected="0" height="22" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="29821">
+				<waveblock start="0">
+					<simpleblockfile filename="e080803a.au" len="29821" min="-0.486939" max="0.601916" rms="0.103464"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark gon come" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="56851">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cd5.au" len="56851" min="-0.458979" max="0.46218" rms="0.125795"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark gon come" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="56851">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080af.au" len="56851" min="-0.458979" max="0.46218" rms="0.125795"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark behind you fat kid" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="94406">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808de1.au" len="94406" min="-0.54509" max="0.508588" rms="0.120235"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark behind you fat kid" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="94406">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082d3.au" len="94406" min="-0.54509" max="0.508588" rms="0.120235"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="you gotta sweeeem" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51987">
+				<waveblock start="0">
+					<simpleblockfile filename="e080820f.au" len="51987" min="-0.614974" max="0.501878" rms="0.126818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="you gotta sweeeem" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="51987">
+				<waveblock start="0">
+					<simpleblockfile filename="e080871a.au" len="51987" min="-0.614974" max="0.501878" rms="0.126818"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="get out that dark water" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65383">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080df.au" len="65383" min="-0.446305" max="0.525005" rms="0.136717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="get out that dark water" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="65383">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d87.au" len="65383" min="-0.446305" max="0.525005" rms="0.136717"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="swim faster" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42419">
+				<waveblock start="0">
+					<simpleblockfile filename="e08083b6.au" len="42419" min="-0.478239" max="0.506586" rms="0.11928"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="swim faster" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="42419">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808687.au" len="42419" min="-0.478239" max="0.506586" rms="0.11928"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="pretend theres a corndog at the end of the pool" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88506">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bed.au" len="88506" min="-0.556575" max="0.585783" rms="0.130398"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="pretend theres a corndog at the end of the pool" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="88506">
+				<waveblock start="0">
+					<simpleblockfile filename="e08080a6.au" len="88506" min="-0.556575" max="0.585783" rms="0.130398"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="that dark water" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="39389">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808d95.au" len="39389" min="-0.443501" max="0.483879" rms="0.135159"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="that dark water" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="39389">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081a9.au" len="39389" min="-0.443501" max="0.483879" rms="0.135159"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark coming for you fat kid - high" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118167">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808eef.au" len="118167" min="-0.654534" max="0.622116" rms="0.113396"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="glass shark coming for you fat kid - high" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="118167">
+				<waveblock start="0">
+					<simpleblockfile filename="e08081cd.au" len="118167" min="-0.654534" max="0.622116" rms="0.113396"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he make you a snack" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58526">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e3e.au" len="58526" min="-0.485617" max="0.588862" rms="0.129589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he make you a snack" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="58526">
+				<waveblock start="0">
+					<simpleblockfile filename="e08088d8.au" len="58526" min="-0.485617" max="0.588862" rms="0.129589"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he make you a snack he eat your brother" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90738">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808a75.au" len="90738" min="-0.553119" max="0.639952" rms="0.122576"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he make you a snack he eat your brother" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="90738">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808f42.au" len="90738" min="-0.553119" max="0.639952" rms="0.122576"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he dont care he glass shark" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101263">
+				<waveblock start="0">
+					<simpleblockfile filename="e08089b6.au" len="101263" min="-0.547313" max="0.565519" rms="0.132615"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="he dont care he glass shark" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="101263">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b7d.au" len="101263" min="-0.547313" max="0.565519" rms="0.132615"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="in that bad dark water" isSelected="1" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80532">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808893.au" len="80532" min="-0.542078" max="0.475379" rms="0.130722"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="in that bad dark water" isSelected="1" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="80532">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808bdc.au" len="80532" min="-0.542078" max="0.475379" rms="0.130722"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
